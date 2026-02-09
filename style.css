@@ -1,0 +1,34 @@
+h1{
+    color: rgb(255, 127, 127);
+    text-align: center;
+    text-decoration: dotted;
+    text-shadow: 2cm;
+   
+}
+p{
+    border: 3px;
+    border-style: double;
+    border-color: rgb(133, 216, 26);
+}
+
+ol{
+    color: green;
+}
+
+#head{
+    background-color: black;
+}
+th,td,table{
+    border: 5px solid;
+}
+.class1{
+    background-color:  rgb(223, 2, 65);
+    margin: 20px;
+    padding: 20px;
+}
+.class2{
+    background-color: purple;
+}
+.CLASS3{
+    background-color: aqua;
+}
